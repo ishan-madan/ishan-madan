@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/ishanmadan1/">Ishan</a>!
 
-<!--
-**ishan-madan/ishan-madan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)</b>
+  - [Rental Property ChatBot](INSERT LINK)
+- <b>Data Structures and Algorithms</b>
+  - [Autocomplete](INSERT LINK)
+  - [Routing] (INSERT LINK)
+- <b>Unity/C# Game Development</b>
+  - [Rubik's Cube](INSERT LINK)
+  - [Nightmare](INSERT LINK)
+  - [Warped](INSERT LINK)
+  - [Rainbow Roll] (INSERT LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+<a href="https://linkedin.com/in/ishanmadan1/"> LinkedIn </a>
