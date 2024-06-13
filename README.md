@@ -5,13 +5,13 @@
 - <b>Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)</b>
   - [Rental Property ChatBot](INSERT LINK)
 - <b>Data Structures and Algorithms</b>
-  - [Autocomplete](INSERT LINK)
-  - [Routing] (INSERT LINK)
+  - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
+  - [Routing](https://github.com/ishan-madan/routing/)
 - <b>Unity/C# Game Development</b>
   - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
-  - [Nightmare](INSERT LINK)
-  - [Warped](INSERT LINK)
-  - [Rainbow Roll] (INSERT LINK)
+  - [Nightmare](https://github.com/ishan-madan/nightmare/)
+  - [Warped](https://github.com/ishan-madan/warped/)
+  - [Rainbow Roll](https://github.com/ishan-madan/rainbowroll/)
 
 <h2> 🤳 Connect with me:</h2>
 
