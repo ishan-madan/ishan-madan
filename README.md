@@ -8,7 +8,7 @@
   - [Autocomplete](INSERT LINK)
   - [Routing] (INSERT LINK)
 - <b>Unity/C# Game Development</b>
-  - [Rubik's Cube](INSERT LINK)
+  - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
   - [Nightmare](INSERT LINK)
   - [Warped](INSERT LINK)
   - [Rainbow Roll] (INSERT LINK)
