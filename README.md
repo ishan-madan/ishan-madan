@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)</b>
-  - [Rental Property ChatBot](INSERT LINK)
+  - [LeaseLink](https://github.com/ishan-madan/leaselink/)
 - <b>Data Structures and Algorithms</b>
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
