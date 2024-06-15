@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/ishanmadan1/">Ishan</a>!
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/ishanmadan1/" target="_blank">Ishan</a>!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
