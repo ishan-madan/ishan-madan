@@ -2,12 +2,12 @@
 
 ## 👨‍💻 $\textsf{\color{skyblue} Software Development Projects:}$
 
-- $\textsf{\color{lightgreen} Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)}$
+- $\textsf{\color{green} Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)}$
   - [LeaseLink](https://github.com/ishan-madan/leaselink/)
-- $\textsf{\color{lightgreen} Data Structures and Algorithms}$
+- $\textsf{\color{lime} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
-- $\textsf{\color{lightgreen} Python Projects}$
+- $\textsf{\color{olive} Python Projects}$
   - [JSON2CSV](https://github.com/ishan-madan/json2csv/)
 - $\textsf{\color{lightgreen} Unity/C⌗ Game Development}$
   - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
