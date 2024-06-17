@@ -1,27 +1,27 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/ishanmadan1/" target="_blank">Ishan</a>!
+# Hi I'm <a href="https://www.linkedin.com/in/ishanmadan1/" target="_blank">Ishan</a>!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 $\textsf{\color{skyblue} Software Development Projects:}$
 
-- <b>Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)</b>
+- $\textsf{\color{lightgreen} Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)}$
   - [LeaseLink](https://github.com/ishan-madan/leaselink/)
-- <b>Data Structures and Algorithms</b>
+- $\textsf{\color{lightgreen} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
-- <b>Unity/C# Game Development</b>
+- $\textsf{\color{lightgreen} Unity/C⌗ Game Development}$
   - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
   - [Nightmare](https://github.com/ishan-madan/nightmare/)
   - [Warped](https://github.com/ishan-madan/warped/)
   - [Rainbow Roll](https://github.com/ishan-madan/rainbowroll/)
 
-<h2>🎬 Video Editing Projects:</h2>
+## 🎬 $\textsf{\color{skyblue} Video Editing Projects:}$
 
-- <b>Duke Dhamaka Intro Videos</b>
+- $\textsf{\color{lightgreen} Duke Dhamaka Intro Videos}$
   - [Duke Dhamaka Intro Video 2023](https://github.com/ishan-madan/dhamakaintro23)
   - [Duke Dhamaka Intro Video 2024](https://github.com/ishan-madan/dhamakaintro24)
-- <b>Other Videos</b>
+- $\textsf{\color{lightgreen} Other Videos}$
   - [Awaaz 2023 Promotional Video](https://github.com/ishan-madan/awaazpromo23)
   - [Buffalo Bhangra Intro Video 2024](https://github.com/ishan-madan/buffalointro24)
 
-<h2> 🤳 Connect with me:</h2>
+## 📲 $\textsf{\color{skyblue} Connect with me:}$
 
 <a href="https://linkedin.com/in/ishanmadan1/"> LinkedIn </a>
