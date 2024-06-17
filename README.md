@@ -7,6 +7,8 @@
 - $\textsf{\color{lightgreen} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
+- $\textsf{\color{lightgreen} Python Projects}$
+  - [JSON2CSV](https://github.com/ishan-madan/json2csv/)
 - $\textsf{\color{lightgreen} Unity/C⌗ Game Development}$
   - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
   - [Nightmare](https://github.com/ishan-madan/nightmare/)
