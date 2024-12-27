@@ -9,6 +9,7 @@
   - [Routing](https://github.com/ishan-madan/routing/)
 - $\textsf{\color{lightgreen} Python Projects}$
   - [JSON 2 CSV](https://github.com/ishan-madan/json2csv/)
+  - [Men's College Basketball Data Scraper](https://github.com/ishan-madan/mbb-scraper)
 - $\textsf{\color{lightgreen} Unity/C⌗ Game Development}$
   - [Rubik's Cube](https://github.com/ishan-madan/rubikscube/)
   - [Nightmare](https://github.com/ishan-madan/nightmare/)
