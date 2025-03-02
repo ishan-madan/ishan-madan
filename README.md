@@ -19,6 +19,7 @@
 ## 🎬 $\textsf{\color{skyblue} Video Editing Projects:}$
 
 - $\textsf{\color{lightgreen} Duke Dhamaka Intro Videos}$
+  - [Duke Dhamaka Intro Video 2025 Maryland Mauj](https://github.com/ishan-madan/dhamakaintro25_mauj)
   - [Duke Dhamaka Intro Video 2025 Derby City Dhoom](https://github.com/ishan-madan/dhamakaintro25_dcd)
   - [Duke Dhamaka Intro Video 2024](https://github.com/ishan-madan/dhamakaintro24)
   - [Duke Dhamaka Intro Video 2023](https://github.com/ishan-madan/dhamakaintro23)
