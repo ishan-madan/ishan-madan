@@ -4,6 +4,7 @@
 
 - $\textsf{\color{lightgreen} Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)}$
   - [LeaseLink](https://github.com/ishan-madan/leaselink/)
+  - [Dukeazon](https://github.com/ishan-madan/dukeazon/)
 - $\textsf{\color{lightgreen} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
