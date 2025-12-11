@@ -5,6 +5,8 @@
 - $\textsf{\color{lightgreen} Full Stack Web App (MongoDB, ExpressJS, ReactJS, NodeJS, and AI/ML Components)}$
   - [LeaseLink](https://github.com/ishan-madan/leaselink/)
   - [Dukeazon](https://github.com/ishan-madan/dukeazon/)
+- $\textsf{\color{lightgreen} Machine Learning Projects}$
+  - [Photorealistic Inpainting for Perturbation-Based Explanations in Object Detection](https://github.com/ishan-madan/Photorealistic-Inpainting-Perturbation-ECE661)
 - $\textsf{\color{lightgreen} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
