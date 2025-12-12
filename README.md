@@ -7,6 +7,7 @@
   - [Dukeazon](https://github.com/ishan-madan/dukeazon/)
 - $\textsf{\color{lightgreen} Machine Learning Projects}$
   - [Photorealistic Inpainting for Perturbation-Based Explanations in Object Detection](https://github.com/ishan-madan/Photorealistic-Inpainting-Perturbation-ECE661)
+  - [Image Reconstruction with LASSO Regression](https://github.com/ishan-madan/image-reconstruction)
 - $\textsf{\color{lightgreen} Data Structures and Algorithms}$
   - [Autocomplete](https://github.com/ishan-madan/autocomplete/)
   - [Routing](https://github.com/ishan-madan/routing/)
